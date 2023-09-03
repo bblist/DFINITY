@@ -605,23 +605,6 @@
   },
 
   {
-    "id": "stakedicp",
-    "name": "StakedICP",
-    "oneLiner": "Non-custodial liquid staking for ICP",
-    "tags": [
-      "DeFi"
-    ],
-    "description": "StakedICP is the liquid-staking protocol revolutionizing staking on the Internet Computer, putting control in investors' hands. ICP is staked in the NNS DAO, and stakers receive rewards just by holding the stICP token. The stICP token is DeFi-compatible, to support protocols building on the Internet Computer, and always fully-backed by ICP staked in the NNS.",
-    "usesInternetIdentity": true,
-    "website": "https://stakedicp.com",
-    "github": "https://github.com/AegirFinance/StakedICP",
-    "twitter": "https://twitter.com/StakedICP",
-    "display": "Normal",
-    "logo": "/img/showcase/stakedicp_logo.webp",
-    "screenshots": []
-  },
-
-  {
     "id": "plug",
     "name": "Plug",
     "oneLiner": "Decentralized Wallet for the Internet Computer",
@@ -2632,3 +2615,19 @@
     "youtube": "https://www.youtube.com/watch?v=FktYj4UgBKU"
   }
 ]
+
+ {
+    "id": "nobleblocks",
+    "name": "NOBLEBLOCKS",
+    "description": "As a DeSci initiative, NobleBlocks aims to transform scientific publishing through the power of the Internet Computer's decentralized network. Our platform ensures a fair and transparent environment for reviews and editing, facilitated by our community-led DAOs. By addressing the challenges of the "publish or perish" mindset, we are committed to creating an equitable and transparent ecosystem for all participants in the scientific community.",
+    "tags": [
+      "SocialFi",
+      "Tools / Infrastructure"
+    ],
+    "usesInternetIdentity": false,
+    "website": "https://www.nobleblocks.com/",
+    "twitter": "https://twitter.com/nobleblocks",
+    "logo": "/img/showcase/nobleblocks_logo.png",
+    "logo": "/img/showcase/nobleblocks_screenshot.png",
+    "submittableId": "36650737"
+  },
