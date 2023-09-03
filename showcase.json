@@ -2632,3 +2632,18 @@
     "youtube": "https://www.youtube.com/watch?v=FktYj4UgBKU"
   }
 ]
+{
+    "id": "nobleblocks",
+    "name": "NOBLEBLOCKS",
+    "description": "As a DeSci initiative, NobleBlocks aims to transform scientific publishing through the power of the Internet Computer's decentralized network. We emphasize transparency and fairness in reviews and editing, managed by community-led DAOs. Our goal is to make scientific research more accessible and efficient for all stakeholders involved.",
+    "tags": [
+      "SocialFi",
+      "Tools / Infrastructure"
+    ],
+    "usesInternetIdentity": false,
+    "website": "https://www.nobleblocks.com/",
+    "twitter": "https://twitter.com/nobleblocks",
+    "logo": "/img/showcase/nobleblocks_logo.png",
+    "logo": "/img/showcase/nobleblocks_screenshot.png",
+    "submittableId": "36650737"
+  },
